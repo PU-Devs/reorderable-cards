@@ -24,12 +24,12 @@ A Jetpack Compose project showcasing an interactive reorderable list implementat
 ---
 
 ## Technologies Used
-1. **Kotlin**:
+1. **Kotlin**
 
-2. **Jetpack Compose**:
+2. **Jetpack Compose**
 
 
-3. **DataStore**:
+3. **DataStore**
 
 
 
